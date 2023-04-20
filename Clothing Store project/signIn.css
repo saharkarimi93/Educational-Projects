@@ -1,0 +1,43 @@
+#sign {
+  display: block;
+  width: 500px;
+  margin-left: 950px;
+  margin-top: 300px;
+}
+.labelblock {
+  display: block;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  margin-bottom: 7px;
+}
+.labelblock input {
+  position: absolute;
+  left: 100px;
+  font-size: 10px;
+}
+#message2 {
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: rgb(217, 188, 207);
+}
+#email {
+  width: 25em;
+  height: 2em;
+}
+#password1 {
+  width: 25em;
+  height: 2em;
+}
+.sub {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: lighten;
+}
+h1 {
+  font-family: cursive;
+  text-align: center;
+}

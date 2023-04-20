@@ -1,0 +1,60 @@
+h1 {
+  font-size: 40pt;
+  letter-spacing: 1.5em;
+  font-family: cursive;
+}
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 250px;
+}
+button {
+  color: rgb(149, 55, 117);
+  background-color: rgb(185, 157, 184);
+  border-color: rgb(124, 105, 120);
+}
+strong {
+  color: rgb(210, 30, 150);
+}
+.img {
+  width: 400px;
+  margin: 30px;
+}
+body a {
+  text-align: center;
+  text-decoration: none;
+  color: rgb(177, 99, 156);
+  font-size: 40px;
+  font-family: cursive;
+  display: inline;
+}
+.links {
+  position: absolute;
+  top: 150px;
+  left: 2px;
+  width: 1000px;
+  text-decoration: none;
+  flex-flow: row;
+  display: flex;
+  text-indent: 2em;
+}
+
+.links ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 20px;
+}
+.links li {
+  text-decoration: none;
+  display: inline;
+  float: left;
+  font-size: 14px;
+  margin-right: 0px;
+  background: url(right.jpg) no-repeat 100% 50%;
+  color: white;
+}
+
+.links a:hover {
+  color: rgb(185, 159, 181);
+}

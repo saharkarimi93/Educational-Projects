@@ -1,0 +1,33 @@
+﻿<Window x:Class="toDoApiWPF.addBill"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:toDoApiWPF"
+        mc:Ignorable="d"
+        Title="addBill" Height="450" Width="800">
+    <Grid Background="LightSteelBlue">
+        <Button x:Name="Home" Content="Home" HorizontalAlignment="Left" Margin="44,36,0,0" VerticalAlignment="Top" Height="33" Width="80" Click="Home_Click" Background="AliceBlue"/>
+        <Button x:Name="viewData" Content="View Data" HorizontalAlignment="Left" Margin="44,98,0,0" VerticalAlignment="Top" Height="33" Width="80" Click="viewData_Click" Background="AliceBlue"/>
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="191,18,126,266" Background="LightSteelBlue"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="48,209,0,0" VerticalAlignment="Top" Height="28" Width="59"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="48,242,0,0" VerticalAlignment="Top"/>
+        <Label Content="Amount" HorizontalAlignment="Left" Margin="48,290,0,0" VerticalAlignment="Top"/>
+        <Label Content="Due Date" HorizontalAlignment="Left" Margin="48,333,0,0" VerticalAlignment="Top"/>
+        <Label Content="Bank Balance" HorizontalAlignment="Left" Margin="44,381,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.494,0.635"/>
+        <TextBox x:Name="id" HorizontalAlignment="Left" Margin="191,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="AliceBlue"/>
+        <TextBox x:Name="descrip" HorizontalAlignment="Left" Margin="191,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="AliceBlue"/>
+        <TextBox x:Name="amount" HorizontalAlignment="Left" Margin="191,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="AliceBlue"/>
+        <TextBox x:Name="dueDate" HorizontalAlignment="Left" Margin="191,337,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="AliceBlue"/>
+        <TextBox x:Name="bankBalance" HorizontalAlignment="Left" Margin="191,385,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="AliceBlue"/>
+        <Button x:Name="search" Content="Search" HorizontalAlignment="Left" Margin="432,220,0,0" VerticalAlignment="Top" Height="30" Width="70" Click="search_Click" Background="AliceBlue"/>
+        <Button x:Name="update" Content="Update" HorizontalAlignment="Left" Margin="432,264,0,0" VerticalAlignment="Top" Height="30" Width="70" Click="update_Click" Background="AliceBlue"/>
+        <Button x:Name="insert" Content="Insert" HorizontalAlignment="Left" Margin="432,303,0,0" VerticalAlignment="Top" Height="30" Width="70" Click="insert_Click" Background="AliceBlue"/>
+        <CheckBox x:Name="pay" Content="Pay" HorizontalAlignment="Left" Margin="431,361,0,0" VerticalAlignment="Top" Height="26" Width="71" Checked="pay_Checked" Background="AliceBlue" RenderTransformOrigin="0.669,1.085"/>
+        <Label x:Name="ServerStatus3" Content="ServerStatus" HorizontalAlignment="Left" Margin="589,225,0,0" VerticalAlignment="Top" Height="30" Width="85"/>
+        <Label x:Name="ServerStatus2" Content="ServerStatus" HorizontalAlignment="Left" Margin="589,267,0,0" VerticalAlignment="Top" Height="32" Width="85"/>
+        <Label x:Name="ServerStatus1" Content="ServerStatus" HorizontalAlignment="Left" Margin="589,310,0,0" VerticalAlignment="Top" Height="36" Width="85"/>
+        <Label x:Name="ServerStatus4" Content="ServerStatus" HorizontalAlignment="Left" Margin="589,355,0,0" VerticalAlignment="Top" Height="39" Width="85"/>
+
+    </Grid>
+</Window>

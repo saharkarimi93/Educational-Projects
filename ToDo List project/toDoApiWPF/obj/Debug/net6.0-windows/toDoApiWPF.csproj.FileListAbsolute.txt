@@ -1,0 +1,64 @@
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.exe
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.deps.json
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.runtimeconfig.json
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.pdb
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\AddNewTask.g.cs
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF_MarkupCompile.cache
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF_MarkupCompile.lref
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\AddNewTask.baml
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.g.resources
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.AssemblyInfoInputs.cache
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.AssemblyInfo.cs
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.CopyComplete
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.dll
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\refint\toDoApiWPF.dll
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.pdb
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.genruntimeconfig.cache
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\ref\toDoApiWPF.dll
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\addBill.g.cs
+C:\Users\sahar\source\repos\toDoApiWPF\obj\Debug\net6.0-windows\addBill.baml
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.exe
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.deps.json
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.runtimeconfig.json
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\toDoApiWPF.pdb
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.AssemblyReference.cache
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\addBill.g.cs
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\AddNewTask.g.cs
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF_MarkupCompile.cache
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF_MarkupCompile.lref
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\addBill.baml
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\AddNewTask.baml
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.g.resources
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.AssemblyInfoInputs.cache
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.AssemblyInfo.cs
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.CoreCompileInputs.cache
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.csproj.CopyComplete
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\refint\toDoApiWPF.dll
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.pdb
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\toDoApiWPF.genruntimeconfig.cache
+C:\Users\sahar\source\repos\final version ToDo List project\toDoApiWPF\obj\Debug\net6.0-windows\ref\toDoApiWPF.dll

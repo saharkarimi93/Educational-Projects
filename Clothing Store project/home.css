@@ -1,0 +1,54 @@
+h1 {
+  letter-spacing: 2em;
+  font: 300;
+  font-family: cursive;
+  color: dimgray;
+}
+#home {
+  flex-flow: row;
+  display: flex;
+  padding: 5px;
+  margin-top: 8px;
+  background-repeat: no-repeat;
+}
+.link {
+  text-decoration: none;
+  color: rgb(169, 169, 169);
+  font-family: cursive;
+  flex-flow: row;
+  display: flex;
+  text-indent: 2em;
+}
+
+div a:hover {
+  color: blueviolet;
+  display: block;
+}
+#shipping {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(210, 111, 212);
+  font-family: cursive;
+  letter-spacing: 1px;
+}
+#link {
+  position: absolute;
+  top: 150px;
+  left: 2px;
+  width: 1000px;
+}
+#link ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+#link li {
+  display: inline;
+  float: left;
+  font-size: 14px;
+  margin-right: 0px;
+  background: url(right.jpg) no-repeat 100% 50%;
+  color: white;
+}

@@ -1,0 +1,116 @@
+.labelblock {
+  display: block;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  margin-bottom: 7px;
+  width: 35em;
+}
+.labelblock input {
+  position: absolute;
+  left: 100px;
+  font-size: 10px;
+}
+.indenlabel {
+  position: relative;
+  left: 140px;
+  top: 4px;
+  bottom: 15px;
+}
+#fname,
+#lname,
+#address {
+  width: 35em;
+}
+#phone {
+  width: 10em;
+}
+#city {
+  width: 10em;
+  height: 1em;
+  margin-bottom: 5px;
+}
+#state {
+  width: 3em;
+  height: 1em;
+  margin-bottom: 5px;
+}
+#zip {
+  width: 7em;
+  height: 1em;
+  margin-bottom: 5px;
+}
+.Optionlabel {
+  display: block;
+  position: relative;
+  left: 150px;
+}
+#AddressOption {
+  width: 180px;
+  margin-left: 140px;
+}
+
+.labelpassword {
+  display: inline;
+  position: relative;
+  left: 12px;
+  top: 0px;
+}
+#rightColumn fieldset {
+  margin-bottom: 5px;
+}
+.Optionlabel2 {
+  display: inline;
+  margin-left: 75px;
+  bottom: 2px;
+  height: 1.5em;
+  margin-bottom: 5px;
+}
+#rightColumn input {
+  left: 140px;
+}
+#amount {
+  width: 18em;
+}
+.Optionlabel {
+  height: 1.2em;
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
+#rightColumn {
+  width: 700px;
+  margin-left: 800px;
+  margin-top: 250px;
+  font-size: 12px;
+}
+#rightColumn h1 {
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 5px;
+
+  font-weight: normal;
+}
+
+#rightColumn span {
+  color: red;
+}
+.Optionlabel3 {
+  margin-left: 55px;
+  height: 1.5em;
+}
+
+#message1 {
+  margin-bottom: 20px;
+}
+.sub {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: lighten;
+}
+body {
+  background-color: rgb(217, 188, 207);
+}
+h1 {
+  font-family: cursive;
+}

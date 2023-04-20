@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Subscriptions</title>
+    <link href="subscribe.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="background-image: url(subs.webp)" class="sub">
+    
+    <div id="rightColumn">
+      <h1><b>Subscriptions</b></h1>
+        <form
+          name="SubscribeForm"
+          id="subscribeForm"
+          action="subscribeFormScript.php"
+        >
+          <fieldset id="contact">
+            <legend>Contact information</legend>
+            <fieldset id="AddressOption">
+              <legend>Address For</legend>
+              <label class="Optionlabel4">
+                Home
+                <input
+                  type="radio"
+                  id="homeType"
+                  name="addressType"
+                  value="home"
+                />
+              </label>
+              <label class="Optionlabel4">
+                Business<input
+                  type="radio"
+                  id="busType"
+                  name="addressType"
+                  value="business"
+              /></label>
+            </fieldset>
+            <label class="labelblock">
+              First Name:<span>*</span> <input type="text" id="fname" />
+            </label>
+            <label class="labelblock">
+              Last Name:<span>*</span><input type="text" id="lname"
+            /></label>
+            <label class="labelblock">
+              Email:<span>*</span> <input type="text" id="fname" />
+            </label>
+             
+            <label class="labelblock"
+              >Phone:<span>*</span> <input type="text" id="phone"
+            /></label>
+            <label class="labelblock">
+              Street Address:<span>*</span><input type="text" id="address"
+            /></label>
+            <label class="indenlabel">
+              City:<span>*</span><input type="text" id="city"
+            /></label>
+            <label class="indenlabel">
+              State:<span>*</span
+              ><input type="text" id="state" value="QC" maxlength="2"
+            /></label>
+            <label class="indenlabel">
+              ZIP:<span>*</span
+              ><input type="text" id="zip" value="QC" maxlength="10"
+            /></label>
+          </fieldset>
+          <fieldset id="donationInfo">
+            <legend>Payment</legend>
+            <label class="labelblock"
+              >Credit Card<span>*</span>
+              <select name="cardType" class="Optionlabel2">
+                <optgroup label="Choose Your card">
+                  <option>American Express</option>
+                  <option>Master Card</option>
+                  <option>Visa</option>
+                </optgroup>
+              </select>
+            </label>
+            <label class="labelblock">Cardholder Name<span>*</span><input type="text" class="labelblock"
+             /></label></label>
+             <label class="labelblock">Card Number<span>*</span><input type="text" class="labelblock"
+                />
+             </label>
+             <label class="labelblock">Expiration Date<span>*</span>
+                <select name="month" class="Optionlabel3">
+                   <optgroup label="month">
+                     <option>January(01)</option>
+                     <option>February(02)</option>
+                     <option>March(03)</option>
+                     <option>April(04)</option>
+                     <option>May(05)</option>
+                     <option>June(06)</option>
+                      <option>July(07)</option>
+                     <option>Audust(08)</option>
+                     <option>September(09)</option>
+                      <option>October(10)</option>
+                     <option>November(11)</option>
+                     <option>December(12)</option>
+                   </optgroup>
+                 </select>
+                 <select name="year" class="Optionlabel3">
+                   <optgroup label="year">
+                      <option>2026</option>
+                     <option>2025</option>
+                     <option>2024</option>
+                     <option>2023</option>
+                     <option>2022</option> 
+                   </optgroup>
+                 </select></label>
+                 <label class="labelblock"
+              >CVV:<span>*</span> <input type="text" id="phone"
+            /></label>
+                 
+          </fieldset>
+          
+          <fieldset id="password">
+            <label class="labelblock"
+              >Password<span>*</span> <input type="password" id="phone"
+            /></label>
+            <label class="labelblock"
+              >Confirm Password:<span>*</span> <input type="password" id="phone"
+            /></label>
+            <label class="labelpassword"><input type="checkbox" id="message1" name="message" value="yes" /> 
+              Please sign me up to receive emails from Vanier about special offers, products and services. </label>
+              <br/>
+              <input type="submit" value="Register" />
+              <input type="reset" value="Cancel" />
+        </form>
+    </div>
+
+   
+  </div>
+  </body>
+</html>
